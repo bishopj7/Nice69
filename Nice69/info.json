@@ -5,7 +5,7 @@
     "width": 15,
     "height": 5,
     "layouts": {
-        "LAYOUT_Nice69": {
+        "LAYOUT": {
             "layout": [
 	            {"label": "k001", "x": 1, "y": 0},
                 {"label": "k002", "x": 2, "y": 0},
