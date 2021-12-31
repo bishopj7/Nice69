@@ -22,4 +22,4 @@ AUDIO_ENABLE = no           # Audio output
 
 VIA_ENABLE = yes
 VIAL_ENABLE = yes
-LTO_ENABLE = no
+LTO_ENABLE = yes
