@@ -4,6 +4,5 @@ The Nice69 features a unique layout designed by Clack-Attack™ and uses the Eli
 
 - Keyboard Maintainer/Vendor: Clack-Attack™, u/REDcmp 
 - Hardware supported: MX-style switches, plate-mount stabilizers, Elite-C MCU 
-- [Kit available for purchse on Etsy](https://www.etsy.com/listing/1163559495/nice69-keyboard-kit)
 
  
